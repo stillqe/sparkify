@@ -24,3 +24,5 @@ We can use these logs along with users’ demographic data to build a model that
 
 ## Licensing, Authors, Acknowledgements
 The data is provided by Udacity.
+
+https://github.com/stillqe/sparkify.git
