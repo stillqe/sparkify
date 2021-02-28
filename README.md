@@ -21,7 +21,6 @@ We can use these logs along with users’ demographic data to build a model that
 ## File Descriptions
 - Sparkify.ipynb: It contains all code for data cleaning, preprocessing, EDA, feature engineering, modeling and evaluating. 
 - dataset: mini, medium and large datasets(only on AWS public) are available.
-![](data-schema.png =250x)
 
 ## Licensing, Authors, Acknowledgements
 The data is provided by Udacity.
